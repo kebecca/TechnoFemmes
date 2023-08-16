@@ -1,0 +1,42 @@
+
+      /* Styles personnalisés pour le contenu */
+      body {
+          font-family: 'Roboto', sans-serif;
+          background-color: #ffffff; /* Fond blanc */
+          color: #333333; /* Texte sombre */
+      }
+
+      /* Styles pour le formulaire */
+      .contents {
+          background-color: #ff9900; /* Fond orange */
+          color: #ffffff; /* Texte blanc */
+          border-radius: 10px;
+          padding: 30px;
+      }
+
+      /* Styles pour les boutons */
+      .btn {
+          border: none;
+          color: #ffffff; /* Texte blanc */
+          font-weight: bold;
+          text-transform: uppercase;
+          cursor: pointer;
+      }
+
+      /* Styles pour le bouton Facebook */
+      .facebook {
+          background-color: #1e7145; /* Vert */
+          padding: 10px 20px;
+          margin-right: 10px;
+      }
+
+      /* Styles pour le bouton Google */
+      .google {
+          background-color: #ff3f00; /* Orange */
+          padding: 10px 20px;
+      }
+
+      /* Styles pour les liens */
+      a {
+          color: #ff9900; /* Texte orange */
+      }
